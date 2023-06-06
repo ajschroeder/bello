@@ -1,0 +1,6 @@
+#!/bin/bash
+# This will look odd in the version control, but this will be set to the tag identifier
+# and date it was tagged in CI/CD.
+VERSION="#TAG# - #TAG_DATE#"
+
+printf "Hello World\n"
